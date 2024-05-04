@@ -6,6 +6,10 @@
       "es5",
       "es6"
     ],
+    "types": [
+      "long"
+    ],
+    "skipLibCheck": true,
     "moduleResolution": "node",
     "outDir": "dist/",
     "emitDecoratorMetadata": true,
